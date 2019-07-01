@@ -6,14 +6,14 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Micah Vandegrift
+  avatar: http://lib.ncsu.edu/sites/default/files/vandegrift-2-2_0.jpg
+  bio: "Micah Vandegrift’s research focuses on the evolution of research policies and technologies that maximize the dissemination and impact of publicly engaged scholarship. Specifically, he is developing a concept of “translation” as a form of scholarly communication, and exploring evaluation of new forms of scholarly output. As NC State University Libraries first Open Knowledge Librarian, Micah is dedicated to building programs and processes for the research and learning community to embrace a more open scholarly praxis. He is the lead Principal Investigator for Visualizing Digital Scholarship in Libraries and Learning Spaces (Immersive Scholar) funded by a grant from the Andrew W. Mellon Foundation, and studied open science policy and infrastructure in The Netherlands and Denmark as a Fulbright-Schuman Research Fellow in 2018-2019.."
+  email: mlvandeg@ncsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
+  twitter: micahvandegrift
+  linkedin: micahvandegrift
+  github: micahvandegrift
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -47,7 +47,7 @@ lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
-  cc-by: #yes
+  cc-by: yes
   cc-by-nc: #yes
 
 #DO NOT EDIT BEYOND THIS POINT
